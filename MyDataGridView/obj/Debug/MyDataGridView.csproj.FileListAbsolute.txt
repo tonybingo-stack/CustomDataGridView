@@ -1,0 +1,8 @@
+E:\Workstation\ongoing\jackH\MyDataGridView\MyDataGridView\bin\Debug\MyDataGridView.dll
+E:\Workstation\ongoing\jackH\MyDataGridView\MyDataGridView\bin\Debug\MyDataGridView.pdb
+E:\Workstation\ongoing\jackH\MyDataGridView\MyDataGridView\obj\Debug\MyDataGridView.csprojAssemblyReference.cache
+E:\Workstation\ongoing\jackH\MyDataGridView\MyDataGridView\obj\Debug\MyDataGridView.UserControl1.resources
+E:\Workstation\ongoing\jackH\MyDataGridView\MyDataGridView\obj\Debug\MyDataGridView.csproj.GenerateResource.cache
+E:\Workstation\ongoing\jackH\MyDataGridView\MyDataGridView\obj\Debug\MyDataGridView.csproj.CoreCompileInputs.cache
+E:\Workstation\ongoing\jackH\MyDataGridView\MyDataGridView\obj\Debug\MyDataGridView.dll
+E:\Workstation\ongoing\jackH\MyDataGridView\MyDataGridView\obj\Debug\MyDataGridView.pdb

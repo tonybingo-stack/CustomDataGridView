@@ -1,0 +1,13 @@
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\obj\Debug\TestForm.csprojAssemblyReference.cache
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\bin\Debug\TestForm.exe.config
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\bin\Debug\TestForm.exe
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\bin\Debug\TestForm.pdb
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\obj\Debug\TestForm.exe
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\obj\Debug\TestForm.pdb
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\obj\Debug\TestForm.Form1.resources
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\bin\Debug\MyDataGridView.dll
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\bin\Debug\MyDataGridView.pdb
+E:\Workstation\ongoing\jackH\MyDataGridView\TestForm\obj\Debug\TestForm.csproj.CopyComplete
